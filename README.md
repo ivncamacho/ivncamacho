@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile
 
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=adrian-penalver" target="_blank">Visit me on Linkedin</a>
+
 Hello! I'm Iván Camacho, a passionate web developer with a strong foundation in various web development technologies. Below is a summary of my skills and the technologies I am currently learning.
 
 ## Skills
@@ -15,6 +17,7 @@ Hello! I'm Iván Camacho, a passionate web developer with a strong foundation in
 
 - **Astro**
 - **Angular**
+- **React**
 
 ## About Me
 
