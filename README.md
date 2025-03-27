@@ -16,11 +16,16 @@ Hello! I'm Iván Camacho, a passionate web developer with a strong foundation in
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="50" width="50"/>
 </div>
 
-## Currently Learning
+## Future Learnings
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" height="50" width="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="50" width="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" width="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="50" width="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50" width="50"/>
+</div>
 
-- **Astro**
-- **Angular**
-- **React**
 
 ## About Me
 
