@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/ivancamacholopez/" target="_blank">Visit me on Linkedin</a>
 
-Hello! I'm Iván Camacho, a passionate web developer with a strong foundation in various web development technologies. Below is a summary of my skills and the technologies I am currently learning.
+Hello mate! I'm Iván Camacho, a passionate web developer with a strong foundation in various web development technologies. Below is a summary of my skills and the technologies I am currently learning.
 
 ## Skills 
 
