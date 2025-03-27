@@ -1,16 +1,27 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**ivncamacho/ivncamacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Iván Camacho, a passionate web developer with a strong foundation in various web development technologies. Below is a summary of my skills and the technologies I am currently learning.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PHP**
+- **Laravel**
+- **CSS**
+- **Tailwind CSS**
+- **HTML**
+- **JavaScript**
+
+## Currently Learning
+
+- **Astro**
+- **Angular**
+
+## About Me
+
+I am actively working towards becoming a proficient web developer. I am enthusiastic about learning new technologies and continuously improving my skills. My goal is to create efficient, scalable, and user-friendly web applications.
+
+Feel free to check out my repositories and follow my journey as I grow in the field of web development. Let's connect and collaborate on exciting projects!
+
+---
+
+Thank you for visiting my profile!
