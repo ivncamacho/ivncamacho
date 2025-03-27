@@ -36,10 +36,9 @@ Hello! I'm Iván Camacho, a passionate web developer with a strong foundation in
 
 
 ## About Me
+I have studied a Higher Degree in Web Application Development (Desarrollo de Aplicaciones Web - DAW) and I am currently working on personal projects and learning new languages to create increasingly larger projects. I am open to participating in community projects where I can contribute my knowledge and learn about programming in a professional environment.
 
-I am actively working towards becoming a proficient web developer. I am enthusiastic about learning new technologies and continuously improving my skills. My goal is to create efficient, scalable, and user-friendly web applications.
-
-Feel free to check out my repositories and follow my journey as I grow in the field of web development. Let's connect and collaborate on exciting projects!
+Feel free to contact me if you are interested in collaborating on projects. 😁
 
 ---
 
